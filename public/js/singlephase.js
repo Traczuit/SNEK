@@ -2,9 +2,9 @@ import MainScene from './MainScene.js';
 
 const config = {
 
-    width: 640,
+    width: 450,
   
-    height: 640,
+    height: 450,
     type: Phaser.AUTO,
     parent: 'phaser-game',
     scene: [MainScene]
