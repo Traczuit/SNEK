@@ -10,7 +10,7 @@ constructor(){
     }
 
     update(time){
-        this.snake.update(this);
+        this.snake.update(time);
     }
 
 }
